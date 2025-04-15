@@ -1,0 +1,11 @@
+{
+    "name": "Nota1t1",
+    "website": "https://nota1t1.bigcartel.com",
+    "description": "Nota1t1 (N1T1) is a disruptive meme-style token that merges wireless telecom with cryptocurrency, empowering users with commissions, vaults, and long-term value.",
+    "explorer": "https://bscscan.com/token/0x537Da3ACdeDf67b85a3160D1868369359054f96e",
+    "type": "BEP20",
+    "symbol": "N1T1",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x537Da3ACdeDf67b85a3160D1868369359054f96e"
+}
